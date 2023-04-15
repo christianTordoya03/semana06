@@ -1,0 +1,9 @@
+¿Por qué usar un pre procesador?
+te permite escribir CSS en un idioma alternativo.
+
+¿Cuáles son los principales pre procesadores?
+ Sass, Less y Stylus.
+
+¿Cuáles son los beneficios?
+- Código más claro y limpio.
+- Posibilidad de convertir los CSS en algo dinámico.-
